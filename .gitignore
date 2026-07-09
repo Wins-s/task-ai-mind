@@ -219,3 +219,7 @@ __marimo__/
 
 # Local data
 planner/tasks.json
+
+# Generated reports — output is a working directory
+output/*
+!output/.gitkeep
